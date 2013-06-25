@@ -1,0 +1,28 @@
+{
+    "bold_folder_labels": true,
+    "caret_style": "phase",
+    "color_scheme": "Packages/Theme - Aqua/Color Schemes/Tomorrow Aqua.tmTheme",
+    "detect_slow_plugins": false,
+    "draw_minimap_border": true,
+    "ensure_newline_at_eof_on_save": false,
+    "font_face": "Source Code Pro",
+    "font_options":
+    [
+        "subpixel_antialias"
+    ],
+    "font_size": 14.0,
+    "git_command": "/usr/local/bin/git",
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "line_padding_bottom": 2,
+    "line_padding_top": 2,
+    "match_brackets_angle": false,
+    "scroll_past_end": true,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": true
+}
